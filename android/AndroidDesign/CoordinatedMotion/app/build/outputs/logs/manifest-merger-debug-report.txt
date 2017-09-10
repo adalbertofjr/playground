@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:cardview-v7:22.2.1] /Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/adalbertofjr/.android/build-cache/15322e9bf09a4b7b0cc8659dab76a56d1258fcc1/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.example.android.coordinatedmotion.MainActivity
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:10:9-17:20
+	android:label
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.example.android.coordinatedmotion.MultipleElements
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:18:19-51
+activity#com.example.android.coordinatedmotion.MultipleChaoticElements
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:19:19-58
+activity#com.example.android.coordinatedmotion.CurveMotionList
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:20:19-50
+activity#com.example.android.coordinatedmotion.CurvedMotionDetail
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:21:19-53
+activity#com.example.android.coordinatedmotion.SizeChange
+ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:22:9-48
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml:22:19-45
+uses-sdk
+INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:22.2.1] /Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.2.1] /Users/adalbertofjr/.android/build-cache/0edb73c1ee05be8e23a7eea33dc79f1ffdb7a22b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/adalbertofjr/.android/build-cache/15322e9bf09a4b7b0cc8659dab76a56d1258fcc1/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/AndroidManifest.xml

@@ -1,0 +1,22 @@
+#Thu Aug 10 17:27:02 BRT 2017
+renamed.6=classes.dex
+renamed.5=classes3.dex
+renamed.4=classes7.dex
+renamed.3=classes2.dex
+renamed.2=classes5.dex
+renamed.1=classes4.dex
+renamed.0=classes6.dex
+base.6=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-6.1.0_da31d1876da6d5f9e4edab9f78ccc7cac46156bc
+base.5=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5361700f506529c87e543da1adbcf048840dd6ba
+base.4=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7b87d9a382c37146ce1804d25a1b834aa77721b8
+base.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25070bff75b64e58685e55a1aef12adeb0ee26e6
+base.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee045cb50ddd49fcac001ea7e3fb8c52c69e050
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd911669821751d2552ba4c004c9bb75a374a695
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_35dfa9a7e9fcc6f1fb77f05813f96b76e24e61d1
+file.6=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-6.1.0_da31d1876da6d5f9e4edab9f78ccc7cac46156bc/classes.dex
+file.5=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5361700f506529c87e543da1adbcf048840dd6ba/classes.dex
+file.4=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7b87d9a382c37146ce1804d25a1b834aa77721b8/classes.dex
+file.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25070bff75b64e58685e55a1aef12adeb0ee26e6/classes.dex
+file.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee045cb50ddd49fcac001ea7e3fb8c52c69e050/classes.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd911669821751d2552ba4c004c9bb75a374a695/classes.dex
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_35dfa9a7e9fcc6f1fb77f05813f96b76e24e61d1/classes.dex

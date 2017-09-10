@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

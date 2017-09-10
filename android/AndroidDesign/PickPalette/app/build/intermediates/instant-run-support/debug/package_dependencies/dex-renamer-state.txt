@@ -1,0 +1,25 @@
+#Thu Aug 10 14:39:33 BRT 2017
+renamed.7=classes.dex
+renamed.6=classes4.dex
+renamed.5=classes8.dex
+renamed.4=classes3.dex
+renamed.3=classes5.dex
+renamed.2=classes7.dex
+renamed.1=classes2.dex
+renamed.0=classes6.dex
+base.7=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-6.1.0_da31d1876da6d5f9e4edab9f78ccc7cac46156bc
+base.6=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf8b3512e535318a16d9af323f23937b33d6b722
+base.5=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7b87d9a382c37146ce1804d25a1b834aa77721b8
+base.4=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd911669821751d2552ba4c004c9bb75a374a695
+base.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee045cb50ddd49fcac001ea7e3fb8c52c69e050
+base.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_54d7e6fce3e5d984aa118dceaae859d53d5bd4f6
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25070bff75b64e58685e55a1aef12adeb0ee26e6
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_35dfa9a7e9fcc6f1fb77f05813f96b76e24e61d1
+file.7=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-6.1.0_da31d1876da6d5f9e4edab9f78ccc7cac46156bc/classes.dex
+file.6=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf8b3512e535318a16d9af323f23937b33d6b722/classes.dex
+file.5=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7b87d9a382c37146ce1804d25a1b834aa77721b8/classes.dex
+file.4=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd911669821751d2552ba4c004c9bb75a374a695/classes.dex
+file.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee045cb50ddd49fcac001ea7e3fb8c52c69e050/classes.dex
+file.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_54d7e6fce3e5d984aa118dceaae859d53d5bd4f6/classes.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25070bff75b64e58685e55a1aef12adeb0ee26e6/classes.dex
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_35dfa9a7e9fcc6f1fb77f05813f96b76e24e61d1/classes.dex

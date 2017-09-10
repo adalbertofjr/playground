@@ -1,0 +1,7 @@
+#Wed Apr 26 16:25:37 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/MapTwo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dde8fd1090b3be5f853348008a1ec64ab96bc337
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/MapTwo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7cd6e3061d53653ef0517bc81652493a62832232/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/MapTwo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7cd6e3061d53653ef0517bc81652493a62832232
+file.0=/Users/adalbertofjr/Documents/playground/android/MapTwo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dde8fd1090b3be5f853348008a1ec64ab96bc337/classes.dex

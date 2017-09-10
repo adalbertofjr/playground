@@ -1,0 +1,357 @@
+[
+    {
+        "outputFile": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 60,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 61,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 61,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 63,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 40,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 50,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 50,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1290,
+                    "endColumn": 58,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1388,
+                        "endColumn": 58,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endColumn": 56,
+                    "endOffset": 1401
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endColumn": 56,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1406,
+                    "endColumn": 53,
+                    "endOffset": 1455
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endColumn": 53,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1460,
+                    "endColumn": 74,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/0edb73c1ee05be8e23a7eea33dc79f1ffdb7a22b/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 74,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endColumn": 40,
+                    "endOffset": 1571
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1576,
+                    "endColumn": 65,
+                    "endOffset": 1637
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/0edb73c1ee05be8e23a7eea33dc79f1ffdb7a22b/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 65,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1642,
+                    "endColumn": 54,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 54,
+                        "endOffset": 66
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1697,
+                    "endColumn": 52,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 71,
+                        "endColumn": 52,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1986,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 2447
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2452,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2573
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2255,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2578,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2701
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2381,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2504
+                    }
+                }
+            }
+        ]
+    }
+]

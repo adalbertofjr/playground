@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/build/intermediates/res/merged/debug/transition/move.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/transition/move.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/build/intermediates/res/merged/debug/transition/curve.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/src/main/res/transition/curve.xml"
+    }
+]

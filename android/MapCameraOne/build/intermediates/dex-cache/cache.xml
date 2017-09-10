@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f4e51af232952b81e72b2b2dd0285ce0eaea810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f95e12f68ff18be9015ee223fd9be459a3c6859">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c56079cbc8199dafc79ec47f7780769e2858373f/classes.dex" />
+    </item>
+
+</items>

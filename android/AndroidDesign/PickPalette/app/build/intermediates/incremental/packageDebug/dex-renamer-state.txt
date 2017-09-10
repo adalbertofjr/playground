@@ -1,0 +1,7 @@
+#Thu Aug 10 14:39:33 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2123e49d53b41a5d5567e51b92be7ad6d44e36a8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_60581b54ce1add60dac681a4a7cce7cf18a80283/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_60581b54ce1add60dac681a4a7cce7cf18a80283
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2123e49d53b41a5d5567e51b92be7ad6d44e36a8/classes.dex

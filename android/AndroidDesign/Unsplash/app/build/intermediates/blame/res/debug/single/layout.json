@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/build/intermediates/res/merged/debug/layout/photo_item.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/layout/photo_item.xml"
+    }
+]

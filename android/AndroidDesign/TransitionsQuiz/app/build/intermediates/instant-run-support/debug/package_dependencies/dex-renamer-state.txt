@@ -1,0 +1,16 @@
+#Thu Aug 10 18:06:06 BRT 2017
+renamed.4=classes2.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+base.4=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_636154e0538ed300b54a236f7a3215388ff9acbc
+renamed.0=classes5.dex
+base.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_e83bbb9be3c4d16c46f26ea4b2912ba105f3eca7
+base.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b47d163442d967ee5ed59985895b300d7024765d
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_fd43a513a95071bd612ad8a34fdab9e49b05545d
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_ef1144b27c880c3d5f88508ea000ed207c7babda
+file.4=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_636154e0538ed300b54a236f7a3215388ff9acbc/classes.dex
+file.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_e83bbb9be3c4d16c46f26ea4b2912ba105f3eca7/classes.dex
+file.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b47d163442d967ee5ed59985895b300d7024765d/classes.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_fd43a513a95071bd612ad8a34fdab9e49b05545d/classes.dex
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_ef1144b27c880c3d5f88508ea000ed207c7babda/classes.dex

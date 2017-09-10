@@ -1,0 +1,627 @@
+[
+    {
+        "outputFile": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 40,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 60,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 60,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 61,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 61,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 61,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 61,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 63,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 63,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 43,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 43,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 42,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 42,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 41,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 43,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 43,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endColumn": 58,
+                    "endOffset": 1651
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1388,
+                        "endColumn": 58,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1656,
+                    "endColumn": 56,
+                    "endOffset": 1708
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endColumn": 56,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1713,
+                    "endColumn": 53,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endColumn": 53,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 47,
+                    "endOffset": 1810
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 47,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1815,
+                    "endColumn": 44,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 44,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 74,
+                    "endOffset": 1930
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/0edb73c1ee05be8e23a7eea33dc79f1ffdb7a22b/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 74,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1935,
+                    "endColumn": 44,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 44,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1980,
+                    "endColumn": 45,
+                    "endOffset": 2021
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 45,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2026,
+                    "endColumn": 43,
+                    "endOffset": 2065
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 43,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2070,
+                    "endColumn": 47,
+                    "endOffset": 2113
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2118,
+                    "endColumn": 65,
+                    "endOffset": 2179
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/0edb73c1ee05be8e23a7eea33dc79f1ffdb7a22b/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 65,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2184,
+                    "endColumn": 60,
+                    "endOffset": 2240
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/integers.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 60,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2245,
+                    "endColumn": 50,
+                    "endOffset": 2291
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2296,
+                    "endColumn": 45,
+                    "endOffset": 2337
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 45,
+                        "endOffset": 57
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2342,
+                    "endColumn": 2548,
+                    "endOffset": 4886
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 2548,
+                        "endOffset": 2734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4891,
+                    "endColumn": 65,
+                    "endOffset": 4952
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 62,
+                        "endColumn": 65,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4957,
+                    "endColumn": 61,
+                    "endOffset": 5014
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 61,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 5019,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 5304
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 5309,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 5449
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5454,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 5659
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5664,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 6125
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6130,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 6251
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2255,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6256,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 6379
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/.android/build-cache/e7ae2d9b5e7d7222274e0d135265b56ecd8f39c6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2381,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2504
+                    }
+                }
+            }
+        ]
+    }
+]

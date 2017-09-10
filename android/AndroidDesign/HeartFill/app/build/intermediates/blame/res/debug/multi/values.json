@@ -1,0 +1,161 @@
+[
+    {
+        "outputFile": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 46,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 75,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/heart.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1799,
+                        "endColumn": 75,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 70,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/heart.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1875,
+                        "endColumn": 70,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 760,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/heart.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 760,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 337,
+                    "endOffset": 1457
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/heart.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 337,
+                        "endOffset": 1794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1462,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    }
+]

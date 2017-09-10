@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/build/intermediates/res/merged/debug/animator/empty_heart.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/animator/empty_heart.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/build/intermediates/res/merged/debug/animator/fill_heart.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/src/main/res/animator/fill_heart.xml"
+    }
+]

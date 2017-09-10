@@ -1,0 +1,7 @@
+#Thu Aug 10 17:56:02 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f16c7972c155c28bacc4811a8afca280583517f2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f5de39841af20fd9b8d12450d133dd185697f8e/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f5de39841af20fd9b8d12450d133dd185697f8e
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f16c7972c155c28bacc4811a8afca280583517f2/classes.dex

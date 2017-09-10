@@ -1,0 +1,4 @@
+#Mon Jun 05 14:32:58 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/adalbertofjr/Documents/playground/android/ud862-samples/HeartFill/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/res/merged/debug/transition/hero.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/src/main/res/transition/hero.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/build/intermediates/res/merged/debug/transition/slide_right.xml",
+        "source": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionsQuiz/app/src/main/res/transition/slide_right.xml"
+    }
+]

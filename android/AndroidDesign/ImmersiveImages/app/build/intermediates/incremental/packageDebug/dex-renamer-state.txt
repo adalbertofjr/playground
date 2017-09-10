@@ -1,0 +1,7 @@
+#Thu Aug 10 17:27:03 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3554fedb7d5fcee6c69b881af5309d84fad1969e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_895f87d8341f37e02763fa6df45329f972fd2449/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_895f87d8341f37e02763fa6df45329f972fd2449
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ImmersiveImages/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3554fedb7d5fcee6c69b881af5309d84fad1969e/classes.dex

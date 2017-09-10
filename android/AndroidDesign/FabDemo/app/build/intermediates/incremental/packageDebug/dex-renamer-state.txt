@@ -1,0 +1,7 @@
+#Thu Aug 10 12:58:01 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/FabDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fbf6ae5d5f8f8d5e5d3a077f34a70641038c6b61
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/FabDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2514d1fcc45fea423d5ae563d51a4e238993e63c/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/FabDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2514d1fcc45fea423d5ae563d51a4e238993e63c
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/FabDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fbf6ae5d5f8f8d5e5d3a077f34a70641038c6b61/classes.dex

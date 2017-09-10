@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/46ae3f5fa64669c42661059aed353403ff472674/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/4aa1050df839a80a196992599fc1a4f0df9f6ae2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/b4f2cfc2243713ab853699f41a5970c5600dd260/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/ba2024479802581271ceca605d23344172c81f55/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/723d36c173b7fc9d8d01fdb167e678f18bc7e5b5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/e3f41140bf53176162089c545e13bff467a856c1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/b5220472f1e978e437896cfab425000dea2038be/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/4d4e4ae0edf0a044011241085c7dc20bef1211f6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/adalbertofjr/.android/build-cache/a4bc688f249a1bae2d76dd64f8fab0ea48a24081/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:11:9-40
+activity#br.com.adalbertofjr.mvvm_contatos.ContatosActivity
+ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:12:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/46ae3f5fa64669c42661059aed353403ff472674/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/4aa1050df839a80a196992599fc1a4f0df9f6ae2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/b4f2cfc2243713ab853699f41a5970c5600dd260/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/ba2024479802581271ceca605d23344172c81f55/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/723d36c173b7fc9d8d01fdb167e678f18bc7e5b5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/e3f41140bf53176162089c545e13bff467a856c1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/b5220472f1e978e437896cfab425000dea2038be/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/4d4e4ae0edf0a044011241085c7dc20bef1211f6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/adalbertofjr/.android/build-cache/a4bc688f249a1bae2d76dd64f8fab0ea48a24081/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adalbertofjr/Documents/playground/android/MVVM_Contatos/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/46ae3f5fa64669c42661059aed353403ff472674/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/4aa1050df839a80a196992599fc1a4f0df9f6ae2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/b4f2cfc2243713ab853699f41a5970c5600dd260/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/ba2024479802581271ceca605d23344172c81f55/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/723d36c173b7fc9d8d01fdb167e678f18bc7e5b5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/e3f41140bf53176162089c545e13bff467a856c1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/b5220472f1e978e437896cfab425000dea2038be/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/4d4e4ae0edf0a044011241085c7dc20bef1211f6/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/adalbertofjr/.android/build-cache/6adb518580bbd2fba1f8249e17fbe4903024d66f/output/AndroidManifest.xml:26:9-47

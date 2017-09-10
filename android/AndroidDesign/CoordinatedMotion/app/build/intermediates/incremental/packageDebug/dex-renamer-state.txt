@@ -1,0 +1,7 @@
+#Sun Aug 13 20:13:37 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a8ff1a817f46ac5679797ff6b49f8a785690646
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08165fdc1bf24ba216cd2061da0df2cfbf84256f/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08165fdc1bf24ba216cd2061da0df2cfbf84256f
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a8ff1a817f46ac5679797ff6b49f8a785690646/classes.dex

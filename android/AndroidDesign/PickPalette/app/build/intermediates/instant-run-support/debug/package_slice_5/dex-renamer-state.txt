@@ -1,0 +1,4 @@
+#Thu Aug 10 14:39:33 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex
