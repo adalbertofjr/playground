@@ -12,39 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/adalbertofjr/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_54d7e6fce3e5d984aa118dceaae859d53d5bd4f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="3df08428ccafbe480f13b58f6e14f55f880c2c4f">
+        sha1="4a3ffd5e4f4cc5927af801304cdbfdbed21d5df4">
         <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2123e49d53b41a5d5567e51b92be7ad6d44e36a8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/adalbertofjr/.android/build-cache/7a93eae07c9bd145749a5fe8aa079df9717ca7d9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
-        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf8b3512e535318a16d9af323f23937b33d6b722/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/adalbertofjr/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
-        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/PickPalette/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-6.1.0_da31d1876da6d5f9e4edab9f78ccc7cac46156bc/classes.dex" />
     </item>
 
 </items>

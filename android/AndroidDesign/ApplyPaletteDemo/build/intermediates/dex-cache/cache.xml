@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ApplyPaletteDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82108757c98bb3832f6488f504a5a10eabe80e83">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ApplyPaletteDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c4d2919e67d4fde7c1682e44c6f28493fba434a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ApplyPaletteDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/ApplyPaletteDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92c010934eaf5ce66bc5c4760e79b6aa5d7f40dc/classes.dex" />
+    </item>
+
+</items>

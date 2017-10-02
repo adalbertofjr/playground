@@ -1,7 +1,7 @@
-#Thu Aug 10 17:56:02 BRT 2017
-base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f16c7972c155c28bacc4811a8afca280583517f2
+#Thu Aug 17 09:53:50 BRT 2017
+base.0=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d88c1b924929ef31382fad447bc511db730781c6
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f5de39841af20fd9b8d12450d133dd185697f8e/classes.dex
-base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f5de39841af20fd9b8d12450d133dd185697f8e
-file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f16c7972c155c28bacc4811a8afca280583517f2/classes.dex
+file.1=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c826e7a667d5a472d52ed90a5c12c7a6e77cde6c/classes.dex
+base.1=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c826e7a667d5a472d52ed90a5c12c7a6e77cde6c
+file.0=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d88c1b924929ef31382fad447bc511db730781c6/classes.dex

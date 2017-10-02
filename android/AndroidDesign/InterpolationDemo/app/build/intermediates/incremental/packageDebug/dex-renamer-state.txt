@@ -1,7 +1,0 @@
-#Sun Aug 13 19:57:10 BRT 2017
-base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/InterpolationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9a371ad5d017a7710bcf9666fe40b796b415d1e
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/InterpolationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f036e516d13a7235432fe35efa133992071e1b00/classes.dex
-base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/InterpolationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f036e516d13a7235432fe35efa133992071e1b00
-file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/InterpolationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9a371ad5d017a7710bcf9666fe40b796b415d1e/classes.dex

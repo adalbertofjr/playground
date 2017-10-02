@@ -1,4 +1,0 @@
-#Sat Apr 22 13:07:55 BRT 2017
-base.0=/Users/adalbertofjr/Documents/playground/android/MapTwo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
-renamed.0=classes.dex
-file.0=/Users/adalbertofjr/Documents/playground/android/MapTwo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

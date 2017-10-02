@@ -1,0 +1,7 @@
+#Thu Aug 10 13:52:45 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_117c6d0222f3215e9f26e41e0019b9173c5d1e71
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f56374ee0b8bd75c3430f686b0ce0029b621e90/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f56374ee0b8bd75c3430f686b0ce0029b621e90
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_117c6d0222f3215e9f26e41e0019b9173c5d1e71/classes.dex

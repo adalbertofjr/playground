@@ -1,0 +1,15 @@
+{
+    "timings": [
+        {
+            "type": "Configuration",
+            "timeMs": 9580,
+            "count": 1
+        },
+        {
+            "type": "Total",
+            "timeMs": 9752,
+            "count": 1
+        }
+    ],
+    "capturedAt": 1502383861574
+}

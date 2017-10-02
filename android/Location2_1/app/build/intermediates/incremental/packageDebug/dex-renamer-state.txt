@@ -1,7 +1,0 @@
-#Fri Apr 21 13:01:15 BRT 2017
-base.0=/Users/adalbertofjr/Documents/playground/android/Location2_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eb7f153c621cf65f79faaf2b6def482348ef6dc6
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/adalbertofjr/Documents/playground/android/Location2_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_221e8ee224d0ab2c9f3d17a5b7c5750af68d87b8/classes.dex
-base.1=/Users/adalbertofjr/Documents/playground/android/Location2_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_221e8ee224d0ab2c9f3d17a5b7c5750af68d87b8
-file.0=/Users/adalbertofjr/Documents/playground/android/Location2_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_eb7f153c621cf65f79faaf2b6def482348ef6dc6/classes.dex

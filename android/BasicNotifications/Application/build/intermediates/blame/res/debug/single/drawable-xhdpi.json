@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_stat_notification.png",
+        "source": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/src/main/res/drawable-xhdpi/ic_stat_notification.png"
+    }
+]

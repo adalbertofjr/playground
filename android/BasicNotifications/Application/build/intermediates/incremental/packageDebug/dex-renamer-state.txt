@@ -1,0 +1,7 @@
+#Sun Sep 24 00:33:09 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39292c1ab901949b379634eabbc2a8e0aa1c060e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0cfffbb92ca689077f3ca3ca57b8eba911a0d7a9/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0cfffbb92ca689077f3ca3ca57b8eba911a0d7a9
+file.0=/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39292c1ab901949b379634eabbc2a8e0aa1c060e/classes.dex

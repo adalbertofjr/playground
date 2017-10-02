@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/f94b80315fb3571d6c1fc8d2ca2f473ad5ebd0c8/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/f94b80315fb3571d6c1fc8d2ca2f473ad5ebd0c8/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/f94b80315fb3571d6c1fc8d2ca2f473ad5ebd0c8/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/f94b80315fb3571d6c1fc8d2ca2f473ad5ebd0c8/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

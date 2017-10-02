@@ -1,7 +1,0 @@
-#Sat Apr 22 13:59:12 BRT 2017
-base.0=/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c56079cbc8199dafc79ec47f7780769e2858373f
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f4e51af232952b81e72b2b2dd0285ce0eaea810/classes.dex
-base.1=/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1f4e51af232952b81e72b2b2dd0285ce0eaea810
-file.0=/Users/adalbertofjr/Documents/playground/android/MapCameraOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c56079cbc8199dafc79ec47f7780769e2858373f/classes.dex

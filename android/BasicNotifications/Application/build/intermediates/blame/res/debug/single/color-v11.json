@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/f94b80315fb3571d6c1fc8d2ca2f473ad5ebd0c8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/adalbertofjr/Documents/playground/android/BasicNotifications/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/adalbertofjr/.android/build-cache/f94b80315fb3571d6c1fc8d2ca2f473ad5ebd0c8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

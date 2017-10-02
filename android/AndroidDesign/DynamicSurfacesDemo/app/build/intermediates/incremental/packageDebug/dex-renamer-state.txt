@@ -1,0 +1,7 @@
+#Thu Aug 10 12:44:43 BRT 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_db05e0bb6d77c3be93030ae45b8873fc687955a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eec18c162385b08ea10e2bf18dd420daa82fbfb9/classes.dex
+base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eec18c162385b08ea10e2bf18dd420daa82fbfb9
+file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_db05e0bb6d77c3be93030ae45b8873fc687955a7/classes.dex

@@ -3,21 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/afernandesjr/.android/build-cache/1d8ede6373ad16a1c2d054d4411872731e952de0/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="9b99a47434af7648708ed7a57a90d5c3fca26d79">
-        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f16c7972c155c28bacc4811a8afca280583517f2/classes.dex" />
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a81c9bfb5ed962ccf535a3b21997d60aa340f952/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/afernandesjr/.android/build-cache/0e720ec9e3e20d6589b6d19081de7393de361561/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_b675b2aa7af3a4688e083ee2a475dcad4ef77aae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f5de39841af20fd9b8d12450d133dd185697f8e/classes.dex" />
+        <dex dex="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c826e7a667d5a472d52ed90a5c12c7a6e77cde6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6f5f41062a6345134da3f14194d913c4aa6e50e">
+        <dex dex="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d88c1b924929ef31382fad447bc511db730781c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/afernandesjr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_2d0f074bbfa68cbbcdee94c410c05d2703e70012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/afernandesjr/.android/build-cache/0e720ec9e3e20d6589b6d19081de7393de361561/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1d4934e22f5b1a50c797058e999075164b6f3f8/classes.dex" />
     </item>
 
 </items>

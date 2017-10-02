@@ -1,13 +1,13 @@
-#Thu Aug 10 17:56:01 BRT 2017
-renamed.3=classes3.dex
+#Thu Aug 17 09:53:49 BRT 2017
+renamed.3=classes.dex
 renamed.2=classes4.dex
 renamed.1=classes2.dex
-renamed.0=classes.dex
-base.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_35dfa9a7e9fcc6f1fb77f05813f96b76e24e61d1
-base.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7b87d9a382c37146ce1804d25a1b834aa77721b8
-base.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee045cb50ddd49fcac001ea7e3fb8c52c69e050
-base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25070bff75b64e58685e55a1aef12adeb0ee26e6
-file.3=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_35dfa9a7e9fcc6f1fb77f05813f96b76e24e61d1/classes.dex
-file.2=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7b87d9a382c37146ce1804d25a1b834aa77721b8/classes.dex
-file.1=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee045cb50ddd49fcac001ea7e3fb8c52c69e050/classes.dex
-file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25070bff75b64e58685e55a1aef12adeb0ee26e6/classes.dex
+renamed.0=classes3.dex
+base.3=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a81c9bfb5ed962ccf535a3b21997d60aa340f952
+base.2=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_2d0f074bbfa68cbbcdee94c410c05d2703e70012
+base.1=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1d4934e22f5b1a50c797058e999075164b6f3f8
+base.0=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_b675b2aa7af3a4688e083ee2a475dcad4ef77aae
+file.3=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a81c9bfb5ed962ccf535a3b21997d60aa340f952/classes.dex
+file.2=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_2d0f074bbfa68cbbcdee94c410c05d2703e70012/classes.dex
+file.1=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1d4934e22f5b1a50c797058e999075164b6f3f8/classes.dex
+file.0=/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_b675b2aa7af3a4688e083ee2a475dcad4ef77aae/classes.dex

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/2147a829c35892d95f1c2640794399fbee2b568f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25070bff75b64e58685e55a1aef12adeb0ee26e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/055c73efb24937b07ed248456dd2eb58a82d8964/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35ad6fce4a4f5f898cdef0b8a60273cfaeef7bb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f56374ee0b8bd75c3430f686b0ce0029b621e90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/51c8a291142a7001e25d3c7a31e86eb4f5f6c23c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee045cb50ddd49fcac001ea7e3fb8c52c69e050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8adf933fd58b8a37348a044fa6787b4470a47af6">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_117c6d0222f3215e9f26e41e0019b9173c5d1e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/2147a829c35892d95f1c2640794399fbee2b568f/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_35dfa9a7e9fcc6f1fb77f05813f96b76e24e61d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/e899e44c19a4b8311ff9e69ee26170a3f737df94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd911669821751d2552ba4c004c9bb75a374a695/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/AndroidDesign/SimplePaperTransformations/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_7b87d9a382c37146ce1804d25a1b834aa77721b8/classes.dex" />
+    </item>
+
+</items>

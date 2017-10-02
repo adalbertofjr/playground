@@ -1,7 +1,0 @@
-#Sat Apr 22 00:10:55 BRT 2017
-base.0=/Users/adalbertofjr/Documents/playground/android/MapOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_58deee96832c1dbfb1ecc516a2369035fdd42748
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/adalbertofjr/Documents/playground/android/MapOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d01b01cce7a0fc27e81d45feb3e75e91524707b/classes.dex
-base.1=/Users/adalbertofjr/Documents/playground/android/MapOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d01b01cce7a0fc27e81d45feb3e75e91524707b
-file.0=/Users/adalbertofjr/Documents/playground/android/MapOne/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_58deee96832c1dbfb1ecc516a2369035fdd42748/classes.dex

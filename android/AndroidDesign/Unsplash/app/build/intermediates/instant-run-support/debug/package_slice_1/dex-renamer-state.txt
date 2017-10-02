@@ -1,4 +1,0 @@
-#Thu Aug 10 18:05:35 BRT 2017
-base.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
-renamed.0=classes.dex
-file.0=/Users/adalbertofjr/Documents/playground/android/AndroidDesign/Unsplash/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

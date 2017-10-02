@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/adalbertofjr/Documents/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "outputFile": "/Users/afernandesjr/Documents/AndroidProjects/playground/playground/android/AndroidDesign/TransitionDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/Users/adalbertofjr/.android/build-cache/51c8a291142a7001e25d3c7a31e86eb4f5f6c23c/output/res/values-w500dp/values-w500dp.xml",
+                    "file": "/Users/afernandesjr/.android/build-cache/1d8ede6373ad16a1c2d054d4411872731e952de0/output/res/values-w500dp/values-w500dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
