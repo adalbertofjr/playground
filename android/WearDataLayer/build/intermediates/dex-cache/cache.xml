@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/a6a1b5e7338ce474ce3d2bc5b5145f74babc19d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3322192082c1b4304b975c9f52b82dab0b235120">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a32261fbc5f5d40233bb223c698c8ead4fa2429/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/374671f40991d8a1f2c89527ff299d7099d056ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d0daa6d64929915e080c7e2744d4f62afd25668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/e26c098874ea350eac809ac36a74da830b5c010a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a861e977178c6c974b77601ced54d0e93470be3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_2832bb864b59d1034f6ddef29e0b1100386b5b73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="be24ab7e09a5d0e32b56f13aed89d5ec7de18216">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d17ee14938e8bfcb045af93c4d68f7fd70f96cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/8c0f34dc0cb2b485a1b3a527f6a8e3bc3f89a3b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74d2bc8c47f93310950eb1bbe8d1ae9589645456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/2eef56f6dd83c887f8dd9bf5a11695f9c52270c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efb0be8739f1cf0549d6f7d5eb415b23d7c5f4dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f63d3772886b3a3c2c663fc449b6aad13ebe28b4">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_60aeb5d5b2ded8d83e6c09875cf21f27c3d957d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Wearable/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff1fcf13400ac2315241118438a7c3550baad7fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/b52aac9a5f7cecad57e793a605f33df8d66095fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2025ae325c13dca068eb043885b78774e0b12cd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/faf41ffa88b48b935e89ae503fdba9b2bba02999/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0c68fde4b2b74272533bb0e225bcbc7c84e2ef8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/b5ae9ed422b36d39d6e5ab7a5ed8f247b935b49b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a911183570522956a9d96af5dc5021a2588d435d">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deadd1f0c89ef836c11a20c680abae24928d2d53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/cc6af504afbb6908f4ed9c4955e0442587a82e69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8136787901eab97c16276f6f6d65bb46110d14c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/0222e0db66957cd85d64b2671a64e92271da0aef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c984be81b845b5cec2389dc0f8bf6369c6b49f33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/0cc3b3d295d312ee965ac8853f798d81d86c01fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_394cde77b88331e85fc7c218c9ad292d8fc0d108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/d19ea362cb0352ecdea0d8dd14acbf3a853f2751/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6844662fb9224d52621d89ce654bf0950e981f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_baf400f88b32befb244646ecea3fba0e44513c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/c79325325a1d4ad7b9bd1e7605e3330e127d0683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db818d9af84d4857935e8002a83cf4440b3eed8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/c53f6fa2a1d8fb6f7b2568cf40b0894bf2b549b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb721533456b513aad879128e6328543f33f96e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/8af15abdd1664e6afd5c19294bb65d4960dcd39d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae950bd2cfea3618a66066a91851a99af16c8146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aac5e7e2f790e577b17f9e5028467135c03760b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/6ef99bb653aaa635207ff9f0a10a4a05116bf9b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a78c806f5307d5526cff46e42861500759a95aed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.android/build-cache/78ed79cfcfa7860445bf2f8d395efeb018635bfc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23424466e0b5eb3f3cc880f0cae34208d7478932/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adalbertofjr/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/adalbertofjr/Documents/playground/android/WearDataLayer/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_a4ea5f362b7db10a862cb84d028109b78c3a0bfc/classes.dex" />
+    </item>
+
+</items>
