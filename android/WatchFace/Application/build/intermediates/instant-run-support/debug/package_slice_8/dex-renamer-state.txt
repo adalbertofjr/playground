@@ -1,0 +1,4 @@
+#Sat Oct 28 23:30:42 BRST 2017
+base.0=/Users/adalbertofjr/Documents/playground/android/WatchFace/Application/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/adalbertofjr/Documents/playground/android/WatchFace/Application/build/intermediates/transforms/dexMerger/debug/8/classes.dex
