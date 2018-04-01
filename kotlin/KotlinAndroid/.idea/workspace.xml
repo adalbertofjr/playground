@@ -12,60 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="properties.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oo/properties.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constructor.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oo/constructor.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="methods.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oo/methods.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="extensionfunction.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oo/extensionfunction.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataclasses.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oo/dataclasses.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enums.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oo/enums.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="inheritance.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oo/inheritance.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +39,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overriding.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="overriding.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oo/overriding.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="smartcasts.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oo/smartcasts.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visibility.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oo/visibility.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="companion.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oo/companion.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oo/object.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding>
+                <element signature="e#12#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generics.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oo/generics.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="covariance.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oo/covariance.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -141,6 +144,12 @@
         <option value="$PROJECT_DIR$/src/oo/abstractclasses.kt" />
         <option value="$PROJECT_DIR$/src/oo/interfacesclasses.kt" />
         <option value="$PROJECT_DIR$/src/oo/overriding.kt" />
+        <option value="$PROJECT_DIR$/src/oo/smartcasts.kt" />
+        <option value="$PROJECT_DIR$/src/oo/visibility.kt" />
+        <option value="$PROJECT_DIR$/src/oo/companion.kt" />
+        <option value="$PROJECT_DIR$/src/oo/object.kt" />
+        <option value="$PROJECT_DIR$/src/oo/generics.kt" />
+        <option value="$PROJECT_DIR$/src/oo/covariance.kt" />
       </list>
     </option>
   </component>
@@ -198,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.oo.OverridingKt">
+  <component name="RunManager" selected="Kotlin.oo.GenericsKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -228,14 +237,14 @@
       <option name="MAIN_CLASS_NAME" value="oo.AbstractclassesKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="oo.EnumsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="oo.GenericsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinAndroid" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oo.EnumsKt" />
+      <option name="MAIN_CLASS_NAME" value="oo.GenericsKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="oo.InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -291,19 +300,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.oo.EnumsKt" />
       <item itemvalue="Kotlin.oo.InheritanceKt" />
       <item itemvalue="Kotlin.oo.AbstractclassesKt" />
       <item itemvalue="Kotlin.oo.InterfacesclassesKt" />
       <item itemvalue="Kotlin.oo.OverridingKt" />
+      <item itemvalue="Kotlin.oo.GenericsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.oo.GenericsKt" />
         <item itemvalue="Kotlin.oo.OverridingKt" />
         <item itemvalue="Kotlin.oo.InterfacesclassesKt" />
         <item itemvalue="Kotlin.oo.AbstractclassesKt" />
         <item itemvalue="Kotlin.oo.InheritanceKt" />
-        <item itemvalue="Kotlin.oo.EnumsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +331,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -332,12 +340,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33727175" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33727175" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" weight="0.32975295" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -581,6 +589,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oo/smartcasts.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oo/visibility.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oo/companion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oo/object.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#12#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oo/generics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oo/covariance.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
