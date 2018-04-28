@@ -21,6 +21,9 @@ public interface LoginActivityMVP {
 
         void showUserSavedMessage();
 
+        void showUserNotAvailable();
+
+        void showUserAvailable();
     }
 
     interface Presenter { // tem relação com a view e a model, regras do negócio
@@ -30,6 +33,8 @@ public interface LoginActivityMVP {
         void loginButtonClicked(); // evento de click de log in
 
         void getCurrentUser(); // busca na model o usuário atual
+
+        void saveUser();
     }
 
     interface Model {

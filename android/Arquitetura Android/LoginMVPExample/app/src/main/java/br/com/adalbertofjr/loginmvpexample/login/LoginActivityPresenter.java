@@ -10,7 +10,7 @@ import android.support.annotation.Nullable;
 public class LoginActivityPresenter implements LoginActivityMVP.Presenter {
     @Nullable
     private LoginActivityMVP.View view;
-    private LoginActivityMVP.Model model;
+    private LoginActivityMVP.Model model; // para salvar dados do usuário
 
     public LoginActivityPresenter(LoginActivityMVP.Model model) { //inserido por injection com dagger
         this.model = model;
@@ -42,6 +42,22 @@ public class LoginActivityPresenter implements LoginActivityMVP.Presenter {
             if (view != null) {
                 view.setFirstName(user.getFirstName());
                 view.setLastName(user.getLastName());
+            }
+        }else {
+            view.showUserNotAvailable();
+        }
+    }
+
+    @Override
+    public void saveUser() {
+        if (view != null) {
+            if (view.getFirstName().trim().equals("") || view.getLastName().trim().equals("")) {
+                view.showInputError();
+            } else {
+
+                model.createUser(view.getFirstName(), view.getLastName());
+                view.showUserSavedMessage();
+
             }
         }
     }
