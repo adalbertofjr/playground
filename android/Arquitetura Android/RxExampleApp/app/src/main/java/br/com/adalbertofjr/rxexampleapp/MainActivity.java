@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         ((App) getApplication()).getComponent().inject(this);
 
         // Chamada retrofit, serm rxandroid
-//        Call<Twitch> twitchCall = twitchAPI.getTopGames("aztzflt0a286ooesoi7b712pvaw4i2");
+//        Call<Twitch> twitchCall = twitchAPI.getTopGames("TWITCH_API_KEY");
 //
 //        twitchCall.enqueue(new Callback<Twitch>() {
 //            @Override
