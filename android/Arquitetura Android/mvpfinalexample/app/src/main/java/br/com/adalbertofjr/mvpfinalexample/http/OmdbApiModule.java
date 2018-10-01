@@ -23,7 +23,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 @Module
 public class OmdbApiModule {
     public final String BASE_URL = "http://www.omdbapi.com";
-    public final String API_KEY = "your_api_key_here";
+    public final String API_KEY = "c113f85c";
 
 
     @Provides

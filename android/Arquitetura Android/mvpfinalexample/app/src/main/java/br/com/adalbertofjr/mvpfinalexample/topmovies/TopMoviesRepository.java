@@ -52,7 +52,10 @@ class TopMoviesRepository implements Repository {
     @Override
     public Observable<Result> getResultsFromNetwork() {
 
-        Observable<TopRated> topRatedObservable = movieApiService.getTopRatedMovies(1).concatWith(movieApiService.getTopRatedMovies(2)).concatWith(movieApiService.getTopRatedMovies(3));
+        Observable<TopRated> topRatedObservable =
+                movieApiService.getTopRatedMovies(1)
+                        .concatWith(movieApiService.getTopRatedMovies(2))
+                        .concatWith(movieApiService.getTopRatedMovies(3));
 
         return topRatedObservable.concatMap(new Function<TopRated, Observable<Result>>() {
             @Override

@@ -22,7 +22,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 @Module
 public class TMDBApiModule {
     public final String BASE_URL = "http://api.themoviedb.org/3/movie/";
-    public final String API_KEY = "your_api_key_here";
+    public final String API_KEY = "68fa45f4555e555346ce7a8bd4073cbb";
 
 
     @Provides
