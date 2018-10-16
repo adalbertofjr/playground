@@ -1,0 +1,18 @@
+Notas para testes unitários
+
+    @Before // Executa uma vez antes dos testes
+    public void setup() {
+        SUT = new NegativeNumberValidator();
+    }
+
+    @Test // indica método para teste
+    public void numberIsNegativeTest() {
+        boolean result = SUT.isNegative(-1);
+
+        Assert.assertThat(result, is(true));
+    }
+
+
+Nomeclatura
+
+    <unitOfWork>_<stateUnderTest>_<expectedBehavior>
