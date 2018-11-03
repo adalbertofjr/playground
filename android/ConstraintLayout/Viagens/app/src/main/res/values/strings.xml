@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Viagens</string>
+    <string name="description_imagem_do_local">Imagem do local</string>
+    <string name="titulo_pacotes">Especiais</string>
+    <string name="local">Brasil</string>
+    <string name="description_banner_pacotes">Banner Pacotes</string>
+</resources>
