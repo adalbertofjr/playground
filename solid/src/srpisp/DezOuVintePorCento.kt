@@ -1,4 +1,4 @@
-package srp
+package srpisp
 
 class DezOuVintePorCento : RegraDeCalculo {
 
