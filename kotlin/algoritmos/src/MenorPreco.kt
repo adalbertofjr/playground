@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
     val carros = getCarros()
     var maisBarato = carros.get(0)
 
-    maisBarato = maisBarato(carros)
+    maisBarato = maisBarato(carros, 0, carros.size)
 
     println("${maisBarato.name} é o carro mais barato e custa R$ ${maisBarato.preco}")
 
@@ -10,11 +10,25 @@ fun main(args: Array<String>) {
 
 private fun maisBarato(carros: List<Produto>): Produto {
     var maisBarato = carros.get(0)
-    carros.forEach { carro ->
+
+    for (carro in carros) {
         if (carro.preco < maisBarato.preco) {
             maisBarato = carro
         }
     }
+
+    return maisBarato
+}
+
+private fun maisBarato(carros: List<Produto>, inicio: Int, fim: Int): Produto {
+    var maisBarato = carros.get(inicio)
+
+    for (i: Int in inicio until fim) {
+        if (carros.get(i).preco < maisBarato.preco) {
+            maisBarato = carros.get(i)
+        }
+    }
+
     return maisBarato
 }
 
